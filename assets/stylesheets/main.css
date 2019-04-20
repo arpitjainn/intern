@@ -1,16 +1,9 @@
-/* 
-  (ALL RIGHTS RESERVED) 
 
-CREATED AND DESIGNED BY -:
-
-     RAJAT (+91 9899446742)
-     rajatmudgil24@gmail.com  */
 
 
      body{
         margin: 0px;
-        /* font-family: 'Open Sans Condensed', sans-serif !important; */
-        /* background-color: black !important; */
+        
         background-image: url(../images/background.png);
         background-attachment: fixed;
         background-repeat: no-repeat;
@@ -97,10 +90,7 @@ CREATED AND DESIGNED BY -:
 
 
     .dropbtn {
-        /* box-shadow: 0 18px 16px -10px rgba(0,0,0,.4);
-        border: 1px solid white;
-        background-color: grey;
-        color: #fff !important; */
+        
         
       }
       
